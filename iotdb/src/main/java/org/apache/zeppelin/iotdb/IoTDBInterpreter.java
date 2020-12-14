@@ -40,6 +40,12 @@ import org.apache.zeppelin.interpreter.ZeppelinContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+ * The IoTDB interpreter.
+ *
+ * @author tianyang duan
+ * @author kangrong
+ */
 public class IoTDBInterpreter extends AbstractInterpreter {
 
   private static final Logger LOGGER = LoggerFactory.getLogger(IoTDBInterpreter.class);

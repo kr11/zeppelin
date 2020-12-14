@@ -45,6 +45,12 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * The IT of IoTDB interpreter.
+ *
+ * @author tianyang duan
+ * @author kangrong
+ */
 public class IoTDBInterpreterTest {
 
   private IoTDBInterpreter interpreter;
